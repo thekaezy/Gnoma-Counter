@@ -18,8 +18,7 @@ Enter your username → get your results instantly.
 
 ---
 
-## 🚀 Live Demo
-🔗 [gnoma-counter.vercel.app](https://gnoma-counter.vercel.app/) 
+## 🚀 Live Demo : https://gnoma-counter-app.vercel.app/
 
 ---
 
