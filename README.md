@@ -13,7 +13,7 @@ Enter your username → get your results instantly.
 ## ✨ Features
 - Simple username input  
 - Always returns **69 GNOMA** (no API keys required)  
-- Fast, lightweight, and deployable on [Vercel](https://vercel.com/)  
+- Fast, lightweight, and deployable on Vercel
 - Green & yellow playful theme  
 
 ---
